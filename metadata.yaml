@@ -1,0 +1,31 @@
+_repo: The-Story-of-a-Common-Soldier-of-Army-Life-in-the-Civil-War-1861-1865_26561
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stillwell, Leander
+    birthdate: 1843
+    deathdate: 1934
+    gutenberg_agent_id: '32098'
+    url: http://www.gutenberg.org/2009/agents/32098
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26561'
+  lccn: '20017040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Stillwell, Leander, 1843-1934'
+- !lcsh 'Soldiers -- Illinois -- Biography'
+- !lcsh 'United States. Army. Illinois Infantry Regiment, 61st (1862-1865) -- Biography'
+- !lcc 'E456'
+title: The Story of a Common Soldier of Army Life in the Civil War, 1861-1865
+url: http://www.gutenberg.org/ebooks/26561
